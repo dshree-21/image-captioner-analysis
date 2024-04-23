@@ -16,5 +16,6 @@ and evaluations, this study aims to uncover the performance
 differences among the mentioned encoder architectures and
 determine the best model for image captioning tasks.
 
+Refer the pdf file attached for better understanding and result illustrations.
 
 ![image](https://github.com/dshree-21/image-captioner-analysis/assets/90754321/acef49c1-0be2-4e60-a548-a61028abbb7f)
